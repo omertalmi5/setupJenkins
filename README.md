@@ -1,7 +1,7 @@
 jenkinsOnDocker
-to run jenkins master and jenkins node
+to run jenkins master and jenkins slave from my images in my repository in docker hub
 run:
- docker-compose -f docker-compose.ci.yml up
+ docker-compose up
 
 
 Find the url for jenkins in the ip of the vm with the command:

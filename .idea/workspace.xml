@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8554675a-1b5f-45e1-b8d4-32bfca303724" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.ci.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
@@ -44,7 +44,8 @@
       <workItem from="1584449392766" duration="394000" />
       <workItem from="1584452485347" duration="720000" />
       <workItem from="1584453285692" duration="1310000" />
-      <workItem from="1584457774568" duration="962000" />
+      <workItem from="1584457774568" duration="1331000" />
+      <workItem from="1584460218060" duration="1041000" />
     </task>
     <servers />
   </component>
@@ -60,9 +61,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584448805251" />
-    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1584457775729">
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1584460226230">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584457775729" />
+    <state x="349" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584460226230" />
   </component>
 </project>
