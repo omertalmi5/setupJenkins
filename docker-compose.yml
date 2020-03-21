@@ -6,12 +6,15 @@ services:
     ports:
       - '8080:8080'
       - '50000:50000'
+    environment:
+      - 'TZ=Asia/Israel'
   jenkins-slave:
     image: omertalmi5/jenkins-slave
     container_name: jenkins-slave
     restart: always
     environment:
       - 'JENKINS_URL=http://jenkins:8080'
+      - 'TZ=Asia/Israel'
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock  # Expose the docker daemon in the container
       - /home/jenkins:/home/jenkins # Avoid mysql volume mount issue
