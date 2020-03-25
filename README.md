@@ -9,3 +9,5 @@ docker-machine ip default
 
 And navigate to jenkins web with the url:
 http://192.168.99.100:8080/
+
+need to set up the nodes in jenkins
